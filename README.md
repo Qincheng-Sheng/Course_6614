@@ -14,16 +14,12 @@ Since the robot leg structure is a planar four-bar linkage and the axis of the h
 
 ## Robot Leg Rotation Simulation
 
-
 <div align=”center”>
     <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_pitch.gif" alt="system" width= "350">
     <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_roll.gif" alt="system" width= "350">
 </div>
     
-    
-<p align="center">
+<div align=”center”>
     <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/knee.gif" alt="system" width= "350">
-    <figcaption> Knee Rotation.</figcaption>
     <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/mixed.gif" alt="system" width= "350">
-    <figcaption> Mixed Rotation.</figcaption>
-</p>
+</div>
