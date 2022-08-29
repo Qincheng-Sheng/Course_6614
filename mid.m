@@ -1,3 +1,7 @@
+clear
+clc
+close all
+
 T = 0:0.1:10;
 n = length(T);
 theta1 = zeros(n,1);
