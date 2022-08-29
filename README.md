@@ -17,8 +17,8 @@ Since the robot leg structure is a planar four-bar linkage and the axis of the h
 <div class="box">
         <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_pitch.gif" alt="system" width= "350" />
         <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_roll.gif" alt="system" width= "350" />
-        <p>
-            Hip pitch Rotation. 
+        <p align ="center">
+            Hip pitch and roll Rotation. 
         </p>
   </div>
     
