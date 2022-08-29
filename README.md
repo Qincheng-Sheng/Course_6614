@@ -8,7 +8,7 @@ https://youtu.be/F7wg5U9hHzI
 Since the robot leg structure is a planar four-bar linkage and the axis of the hip pitch actuator and the axis of the knee actuator are collinear, we can achieve gravity balance with two springs as follows:
 
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg//blob/main/pictures/structure.png" alt="system" width= 250">
+    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/pictures/structure.png" alt="system" width= 250">
 </p>
 
 
@@ -16,11 +16,11 @@ Since the robot leg structure is a planar four-bar linkage and the axis of the h
 
 
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg//blob/main/pictures/hip_pitch.png" alt="system" width= 250">
-    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg//blob/main/pictures/hip_roll.png" alt="system" width= 250">
+    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/pictures/hip_pitch.png" alt="system" width= 250">
+    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/pictures/hip_roll.png" alt="system" width= 250">
 </p>
 
 <p align="center">
-    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg//blob/main/pictures/knee.png" alt="system" width= 250">
-    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg//blob/main/pictures/mixed.png" alt="system" width= 250">
+    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/pictures/knee.png" alt="system" width= 250">
+    <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/pictures/mixed.png" alt="system" width= 250">
 </p>
