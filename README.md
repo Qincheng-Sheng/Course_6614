@@ -14,14 +14,14 @@ Since the robot leg structure is a planar four-bar linkage and the axis of the h
 
 ## Robot Leg Rotation Simulation
 
-    Hip pitch and roll Rotation. 
-    <div class="box">
-            <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_pitch.gif" alt="system" width= "350" />
-            <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_roll.gif" alt="system" width= "350" />
-     </div>
+Hip pitch and roll Rotation. 
+<div class="box">
+        <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_pitch.gif" alt="system" width= "350" />
+        <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/hip_roll.gif" alt="system" width= "350" />
+ </div>
  
-    Knee and Mixed Rotation.
-    <div class="box">
-            <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/knee.gif" alt="system" width= "350" />
-            <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/mixed.gif" alt="system" width= "350" />
-    </div>
+Knee and Mixed Rotation.
+<div class="box">
+        <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/knee.gif" alt="system" width= "350" />
+        <img src="https://github.com/Qincheng-Sheng/Gravity_Balance_Robot_Leg/blob/main/pictures/mixed.gif" alt="system" width= "350" />
+</div>
